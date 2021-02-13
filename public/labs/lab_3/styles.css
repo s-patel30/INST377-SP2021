@@ -1,2 +1,22 @@
 /* Add some css styles based on the tutorial at javascript.info: introduction to browser events
  https://javascript.info/introduction-browser-events */
+
+ body{
+     background-color: beige;
+ }
+li{
+    display: inline-block;
+}
+ul{
+    transform: translateX();
+}
+.arrownext{
+    display: inline-block;
+}
+.arrowprev{
+    display: inline-block;
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
